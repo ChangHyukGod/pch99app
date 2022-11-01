@@ -1,0 +1,7 @@
+C:\pch\bin\Release\net6.0\publish\pch.exe
+C:\pch\bin\Release\net6.0\publish\appsettings.Development.json
+C:\pch\bin\Release\net6.0\publish\appsettings.json
+C:\pch\bin\Release\net6.0\publish\pch.dll
+C:\pch\bin\Release\net6.0\publish\pch.deps.json
+C:\pch\bin\Release\net6.0\publish\pch.runtimeconfig.json
+C:\pch\bin\Release\net6.0\publish\pch.pdb
